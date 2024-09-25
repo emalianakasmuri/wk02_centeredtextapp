@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 
 /**
  * Purpose: This app demonstrate the Center layout.
- *
- * The app display a text in the center of screen.
+ * A text in the center of screen.
  */
 
 
